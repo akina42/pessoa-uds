@@ -3,4 +3,17 @@
 1. O que é uma classe?
 Classe em orientação a objetos é uma abstração de dados referentes a um conjunto de objetos que possui as mesmas características.
 
+2. O que são as propriedades de uma classe?
+Propriedades de uma classe são atributos que o conjunto de objetos deverão possuir.
+
+3. O que são métodos de uma classe?
+Funções que os objetos da classe ou outras classes podem utilizar que executam determinada ação.
+
+4. O que é uma instância?
+Instância de uma classe é um objeto criado que possui os mesmos atributos e tem acesso aos mesmos métodos.
+
+5. O que são construtores?
+Construtores são métodos chamados na criação do objeto, podendo receber valores para instanciação dos valores dos atributos.
+
+
 
